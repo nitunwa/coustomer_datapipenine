@@ -1,0 +1,11 @@
+{ 
+  "inputDataPath":"F:\\nitun-dev\\sts-workspace\\coustomer-data-pipeline\\data\\input\\customer.json",
+  "inputDataType": "json",
+  
+   "inputDataPath":"input-shopping-data",
+  "inputDataType": "xml",
+
+   "outputDataPath":"input-shopping-data",
+   "outputDataType": "xml"
+   
+}

@@ -1,0 +1,8 @@
+{ 
+  "inputDataPath":"data\\input\\customer.json",
+  "inputDataType": "json",
+  
+   "outputDataPath":"data\\out\\customeroutput.xml",
+   "outputDataType": "xml"
+   
+}
